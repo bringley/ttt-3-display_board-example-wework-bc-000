@@ -11,4 +11,5 @@ def display_board
   print_sl
   print_bl
   print_sl
+  # that was gross there's prob a nicer way to do this *shrug*
 end
